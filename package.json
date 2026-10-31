@@ -14,10 +14,10 @@
 	},
 
 	"dependencies" : {
-		"uglify-js" : "1.x.x",
+		"uglify-js" : "3.x.x",
 		"less"      : "1.x.x",
 		"jake"      : "0.x.x",
-		"minimatch" : "0.x.x"
+		"minimatch" : "11.x.x"
 	}
 }
 
